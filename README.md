@@ -1,2 +1,0 @@
-# nasaProject
-Created with CodeSandbox
